@@ -1,3 +1,1 @@
-# surmurthag
-# well, it's convenient 
-# I like
+# https://github.com/surmurthag/surmurthag.github.io
